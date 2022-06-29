@@ -32,7 +32,7 @@ function Navbar() {
               </li>
               <li className="nav-item">
                 <Link href="/">
-                  <a className="nav-link active" aria-current="page" href="">
+                  <a className="nav-link active" aria-current="page" href="../Services">
                     Services
                   </a>
                 </Link>
